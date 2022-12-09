@@ -1,0 +1,58 @@
+/* About Me */
+body {
+    background-color: rgb(216, 172, 113);
+    font-family: Arial, Helvetica, sans-serif;}
+h1,h2 {color: rgb(81, 34, 224)}
+body{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;
+color: rgba(0, 0, 0, 0.863)
+}
+      
+h1,h2,h3,h4{
+font-size: 16px;
+font-weight: normal;
+color: rgb(23, 85, 166)
+}
+      
+/* Resume */
+
+
+h1,h2 {
+    color: rgb(57, 13, 190)}
+
+body{
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+/*Resume*/
+
+    
+h1,h2 {color: rgb(64, 16, 206)}
+
+
+li{
+    font-size: 14px;
+    color: rgb(4, 9, 18);
+    font-weight: normal;
+    }
+
+.bold{
+    font-weight: bold;
+}
+
+.box1 {
+border-width: 1px;
+border-style: solid;
+}
+
+/* .box 2 {
+
+}
+
+.box 3 {
+
+} */
+
+
+
